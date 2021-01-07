@@ -1,0 +1,21 @@
+html {
+  color: #323233;
+  font-size: 14px;
+  font-family: "PingFangSC-Regular", "PingFang SC", "Microsoft YaHei", "SimSun",
+    "Arial", sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+input {
+  border: 0;
+  outline: none;
+  background: transparent;
+}

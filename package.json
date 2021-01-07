@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-eco",
+  "version": "1.0.1",
+  "description": "基于create-react-app的模版",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "template",
+    "template.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yicoding/cra-template-eco.git"
+  },
+  "keywords": [
+    "create",
+    "react",
+    "app",
+    "template"
+  ],
+  "author": "Ecode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yicoding/cra-template-eco/issues"
+  },
+  "homepage": "https://github.com/Yicoding/cra-template-eco#readme"
+}
